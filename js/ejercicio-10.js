@@ -3,7 +3,6 @@
  escribirse un número consecutivo en orden descendente. 
  Si, por ejemplo, la tabla es de 7×5 los números irán del 35 al 1.
 
-Ejercicios con Math
 */
 
 
